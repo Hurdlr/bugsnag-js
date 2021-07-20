@@ -112,6 +112,6 @@
     "error-stack-parser": "^2.0.1",
     "fast-safe-stringify": "^1.2.3",
     "iserror": "0.0.2",
-    "stack-generator": "github:bengourley/stack-generator#v2.0.5"
+    "stack-generator": "github:bengourley/stack-generator#1c6be72543e32a914176d27ac4d28b1c061fd851"
   }
 }
